@@ -1,1 +1,1 @@
-# homepage
+# プログラミング初心者がhomepageを作って行きます
