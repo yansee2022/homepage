@@ -34,3 +34,7 @@ body {
 main {
     text-align: center;
 }
+main p {
+    color: #fff;
+    font-size: 5vw;
+}

@@ -28,9 +28,14 @@ ul li {
     font-size: 2vw;
 }
 body {
-    padding-top: 70px;
-    background-color: rgb(40, 45, 13);
+    padding-top: 100px;
+    background-color: #fff;
+    color: #000;
 }
 main {
     text-align: center;
+}
+p {
+    font-size: 25px;
+    margin-left: 20%;
 }
