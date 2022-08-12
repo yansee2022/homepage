@@ -2,7 +2,7 @@ header {
     width: 100%;
     margin: 0 auto;
     position: fixed;
-    background-color: rgb(40, 45, 13);
+    background-color: rgb(180, 92, 227);
     top: 0;
     left: auto;
     right: auto;
@@ -29,12 +29,12 @@ ul li {
 }
 body {
     padding-top: 70px;
-    background-color: rgb(40, 45, 13);
+    background-color: rgb(180, 92, 227);
+    color: #fff;
 }
 main {
     text-align: center;
 }
-main p {
-    color: #fff;
+main h2 {
     font-size: 5vw;
 }

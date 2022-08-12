@@ -1,11 +1,11 @@
 header {
     width: 100%;
-    margin: 0 auto;
+    margin: 0;
     position: fixed;
-    background-color: rgb(40, 45, 13);
+    background-color: rgb(180, 92, 227);
     top: 0;
-    left: auto;
-    right: auto;
+    left: 0;
+    right: 0;
     color: antiquewhite;
 }
 a {
@@ -29,7 +29,6 @@ ul li {
 }
 body {
     padding-top: 70px;
-    background-color: rgb(40, 45, 13);
 }
 main {
     text-align: center;
