@@ -1,0 +1,104 @@
+header {
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    background-color: rgb(180, 92, 227);
+    top: 0;
+    left: 0px;
+    right: 0;
+    color: antiquewhite;
+}
+a {
+    color: antiquewhite;
+}
+.inner {
+    font-size: 1vw;
+}
+header .wrap {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+ul {
+    display: flex;
+    list-style: none;
+}
+ul li {
+    margin-right: 40px;
+    font-size: 2vw;
+}
+body {
+    padding-top: 70px;
+}
+	/* 959px以下に適用されるCSS（タブレット用） */
+@media screen and (max-width: 959px) {
+    header {
+        width: 100%;
+        margin: 0;
+        position: fixed;
+        background-color: rgb(180, 92, 227);
+        top: 0;
+        left: 0px;
+        right: 0;
+        color: antiquewhite;
+    }
+    a {
+        color: antiquewhite;
+        font-size: 75%;
+    }
+    .inner {
+        font-size: 1vw;
+    }
+    header .wrap {
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+    }
+    ul {
+        display: flex;
+        list-style: none;
+    }
+    ul li {
+        margin-right: 40px;
+        font-size: 2vw;
+    }
+    body {
+        padding-top: 70px;
+    }    
+}
+	/* 480px以下に適用されるCSS（スマホ用） */
+@media screen and (max-width: 480px) {
+    header {
+        width: 100%;
+        margin: 0;
+        position: fixed;
+        background-color: rgb(180, 92, 227);
+        top: 0;
+        left: 0px;
+        right: 0;
+        color: antiquewhite;
+    }
+    a {
+        color: antiquewhite;
+        font-size: 50%;
+    }
+    .inner {
+        font-size: 1vw;
+    }
+    header .wrap {
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+    }
+    ul {
+        display: flex;
+        list-style: none;
+    }
+    ul li {
+        margin-right: 40px;
+        font-size: 2vw;
+    }
+    body {
+        padding-top: 70px;
+    }
+}
