@@ -1,6 +1,7 @@
 body {
     padding-top: 100px;
-    background-color: rgb(180, 92, 227);
+    /* background-color: rgb(180, 92, 227); */
+    background-image: url(../img/p0355_l.jpeg);
 }
 main h1 {
     color: aliceblue;

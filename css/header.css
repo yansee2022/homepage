@@ -2,7 +2,8 @@ header {
     width: 100%;
     margin: 0;
     position: fixed;
-    background-color: rgb(180, 92, 227);
+    /* background-color: rgb(180, 92, 227); */
+    background-image: url(../img/p0355_l.jpeg);
     top: 0;
     left: 0px;
     right: 0;

@@ -1,6 +1,7 @@
 body {
     padding-top: 70px;
-    background-color: rgb(180, 92, 227);
+    /* background-color: rgb(180, 92, 227); */
+    background-image: url(../img/p0355_l.jpeg);
     color: #fff;
 }
 main {
