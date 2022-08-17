@@ -4,7 +4,7 @@ body {
     background-image: url(../img/p0355_l.jpeg);
 }
 main h1 {
-    color: aliceblue;
+    color: rgb(241, 90, 198);
 }
 main {
     text-align: center;
@@ -13,17 +13,18 @@ main {
 p {
     display: inline-block;
     text-align: left;
-    color: aliceblue;
+    color: rgb(3, 51, 63);
     font-size: 2vw;
 }
 	/* 959px以下に適用されるCSS（タブレット用） */
 @media screen and (max-width: 959px) {
     body {
         padding-top: 100px;
-        background-color: rgb(180, 92, 227);
+        /* background-color: rgb(180, 92, 227); */
+        background-image: url(../img/p0355_l.jpeg);
     }
     main h1 {
-        color: aliceblue;
+        color: rgb(241, 90, 198);
     }
     main {
         text-align: center;
@@ -33,17 +34,18 @@ p {
         display: inline-block;
         text-align: left;
         font-size: 25px;
-        color: aliceblue;
+        color: rgb(3, 51, 63);
     }
 }
 	/* 480px以下に適用されるCSS（スマホ用） */
 @media screen and (max-width: 480px) {
     body {
         padding-top: 100px;
-        background-color: rgb(180, 92, 227);
+        /* background-color: rgb(180, 92, 227); */
+        background-image: url(../img/p0355_l.jpeg);
     }
     main h1 {
-        color: aliceblue;
+        color: rgb(241, 90, 198);
     }
     main {
         text-align: center;
@@ -53,6 +55,6 @@ p {
         display: inline-block;
         text-align: left;
         font-size: 13px;
-        color: aliceblue;
+        color: rgb(3, 51, 63);
     }
 }

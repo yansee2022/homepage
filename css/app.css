@@ -2,7 +2,7 @@ body {
     padding-top: 70px;
     /* background-color: rgb(180, 92, 227); */
     background-image: url(../img/p0355_l.jpeg);
-    color: #fff;
+    color: rgb(3, 51, 63);
 }
 main {
     text-align: center;
@@ -14,8 +14,9 @@ main h2 {
 @media screen and (max-width: 959px) {
     body {
         padding-top: 70px;
-        background-color: rgb(180, 92, 227);
-        color: #fff;
+        /* background-color: rgb(180, 92, 227); */
+        background-image: url(../img/p0355_l.jpeg);
+        color: rgb(3, 51, 63);
     }
     main {
         text-align: center;
@@ -25,8 +26,9 @@ main h2 {
     }
     body {
         padding-top: 70px;
-        background-color: rgb(180, 92, 227);
-        color: #fff;
+        /* background-color: rgb(180, 92, 227); */
+        background-image: url(../img/p0355_l.jpeg);
+        color: rgb(3, 51, 63);
     }
     main {
         text-align: center;
@@ -39,8 +41,9 @@ main h2 {
 @media screen and (max-width: 480px) {
     body {
         padding-top: 70px;
-        background-color: rgb(180, 92, 227);
-        color: #fff;
+        /* background-color: rgb(180, 92, 227); */
+        background-image: url(../img/p0355_l.jpeg);
+        color: rgb(3, 51, 63);
     }
     main {
         text-align: center;
